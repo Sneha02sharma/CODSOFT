@@ -27,4 +27,4 @@ This repository contains 3 projects I completed during my Data Science internshi
 
 ## 📫 Contact Me
 - **Email:** snehacs22@pgdav.du.ac.in  
-- **LinkedIn:** [linkedin.com/in/snehasharma](https://linkedin.com/in/snehasharma)
+- **LinkedIn:** [Linkedin] (https://www.linkedin.com/in/sneha-sharma-aa8673347)
