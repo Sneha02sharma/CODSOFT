@@ -5,14 +5,14 @@ This repository contains 3 projects I completed during my Data Science internshi
 ---
 
 ## 🌸 Project 1: Iris Dataset – EDA
-- 📊 Tools: Pandas, Seaborn, Matplotlib
+- 📊 Tools: Pandas, Seaborn, Matplotlib,KNN model
 - 📝 Task: Data cleaning and visualization
-- 🔍 Outcome: Identified class separation using petal features
+- 🔍 Outcome: Identified class separation using petal features with 95% accuracy 
 
 ## 🚢 Project 2: Titanic Survival Prediction
-- 📊 Tools: Scikit-learn, Logistic Regression, Random Forest
+- 📊 Tools: Scikit-learn, Logistic Regression
 - 📝 Task: ML model to predict passenger survival
-- 🎯 Accuracy: ~78%
+- 🎯 Accuracy: ~79%
 
 ## 💳 Project 3: Credit Card Fraud Detection
 - 📊 Tools: Random Forest, SMOTE, Classification Metrics
